@@ -9,6 +9,8 @@ It has been tested on 32-bit Excels and recently updated to allow working on x64
 
 It works by sizing down the cells of a worksheet into a (roughly) 2x2 pixel size and then changing their back colours to simulate a frame buffer.
 
+** Generally only performs well when saved to a local, physical disk **
+
 Controls
 --------
 
